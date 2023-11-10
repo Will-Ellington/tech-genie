@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Tech Genie",
+    "description": "",
+    "home_page_url": "https://will-ellington.github.io/tech-genie",
+    "feed_url": "https://will-ellington.github.io/tech-genie/feed.json",
+    "user_comment": "",
+    "icon": "https://will-ellington.github.io/tech-genie/media/website/andrewinkobe_a_simple_logo_for_a_youtube_channel_called_tech_ge_5daeab9b-a2fd-4050-aa87-2bf694a1b1ed-2.png",
+    "author": {
+        "name": "Will Ellington"
+    },
+    "items": [
+        {
+            "id": "https://will-ellington.github.io/tech-genie/real-world-cases-where-a-vpn-is-actually-useful/",
+            "url": "https://will-ellington.github.io/tech-genie/real-world-cases-where-a-vpn-is-actually-useful/",
+            "title": "Real world cases where a VPN is actually useful",
+            "summary": "VPNs are not a panacea for web security, but the internet world is defintiely divided between those who do and don't have a VPN. Below are some real world use cases where a VPN has helped prevent a serious problem. Protecting against cybercrime: A user&hellip;",
+            "content_html": "<p>VPNs are not a panacea for web security, but the internet world is defintiely divided between those who do and don't have a VPN. Below are some real world use cases where a VPN has helped prevent a serious problem.</p>\n<ol class=\"list-outside list-decimal marker:font-mono marker:text-sm pl-11\">\n<li><span class=\"\"><strong>Protecting against cybercrime</strong>: A user was the victim of a cybercrime and had their personal information stolen. They started using a VPN to encrypt their internet traffic and protect their data from future attacks. The VPN also helped them access their bank account and other sensitive information securely.<br><br></span></li>\n<li><span class=\"\"><strong>Working remotely</strong>: A user was working remotely and needed to access their company's network and files. By using a VPN, they were able to securely connect to their company's network and access the files they needed without compromising the security of the company's data. <br><br><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"citation ml-xs inline\" href=\"https://quirkwizard.tumblr.com/post/188215543384/quirkworks-a-wizards-guide-to-making-quirks-and\">\n<div class=\"inline-flex relative -top-[0.3rem] light font-sans text-base text-textOff dark:text-textOffDark selection:bg-superDuper selection:text-textMain\">\n<div class=\"inline-flex h-[1rem] min-w-[1rem] px-[0.2em] rounded-full items-center justify-center text-center font-mono font-bold md:hover:text-white tabular-nums border-borderMain/60 dark:border-borderMainDark/80 divide-borderMain/60 dark:divide-borderMainDark/80 ring-borderMain dark:ring-borderMainDark transition duration-300 bg-offsetPlus dark:bg-offsetPlusDark md:hover:bg-super\"> </div>\n</div>\n</a></span></li>\n<li><span class=\"\"><strong>Avoiding online price discrimination</strong>: A user noticed that they were being charged more for flights and hotel bookings when they searched from their home country. By using a VPN to connect to a server in a different country, they were able to avoid online price discrimination and save money on their bookings.<br><br></span></li>\n<li><span class=\"\"><span class=\"\"><strong>Accessing online gaming servers</strong></span><span class=\"\">: A user was unable to connect to online gaming servers due to geographical restrictions. By using a VPN to connect to a server in a different location, they were able to bypass the restrictions and connect to the gaming servers they needed.<br><br></span></span></li>\n<li><span class=\"\"><span class=\"\"><strong>Protecting against workplace surveillance</strong></span><span class=\"\">: A user was concerned that their employer was monitoring their internet activity while working remotely. By using a VPN, they were able to encrypt their internet traffic and prevent their employer from tracking their online activity.<br><br></span></span></li>\n<li><span class=\"\"><span class=\"\"><strong>Protecting against cyberstalking</strong></span><span class=\"\">: A user was being cyberstalked and wanted to protect their online activity from the stalker. By using a VPN, they were able to mask their IP address and prevent the stalker from tracking their online activity.</span></span></li>\n</ol>",
+            "image": "https://will-ellington.github.io/tech-genie/media/posts/1/privecstasy-CXlqHmQy3MY-unsplash-2.jpg",
+            "author": {
+                "name": "Will Ellington"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-10T16:40:04+09:00",
+            "date_modified": "2023-11-10T17:07:31+09:00"
+        }
+    ]
+}

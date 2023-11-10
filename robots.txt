@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://will-ellington.github.io/tech-genie/sitemap.xml
