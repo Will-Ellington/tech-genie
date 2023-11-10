@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://will-ellington.github.io/tech-genie/what-is-a-vpn-and-do-you-really-need-one/",
+            "url": "https://will-ellington.github.io/tech-genie/what-is-a-vpn-and-do-you-really-need-one/",
+            "title": "What is a VPN and do you really need one?",
+            "summary": "VPN stands for virtual private network. it's a mechanism to create a secure connection between your computer, tablet or smartphone and a computer network. Most VPNs in 2023 are super easy to use. You just download the app, click a button, and boom, you're protected.",
+            "content_html": "<p>VPN stands for virtual private network. it's a mechanism to create a secure connection between your computer, tablet or smartphone and a computer network. Most VPNs in 2023 are super easy to use. You just download the app, click a button, and boom, you're protected. Here are some real-world reasons why you might think of getting a VPN.</p>\n<p><strong>1. Privacy First:</strong> Imagine the internet as a crowded street. You walk around, and everyone can see where you're going and what you're doing. Not cool, right? Well, a VPN throws an invisibility cloak around you. It hides your online footprints, so no one – not the advertisers, hackers, or nosy neighbors – can spy on your online adventures. Your secrets stay safe with a VPN.</p>\n<p><strong>2. Public Wi-Fi Protection:</strong> Ever sipped coffee at a café and hopped on their free Wi-Fi? It's convenient, but here's the catch: it's like shouting your passwords and personal info for everyone to hear. A VPN locks that down. It encrypts your connection, turning that sketchy café Wi-Fi into your own private sanctuary.</p>\n<p><strong>3. Access to the World:</strong> Have you ever tried watching your favorite show, only to be told, \"Sorry, not available in your country\"? It's a bummer. But guess what? With a VPN, you can change your virtual location and watch that show, no matter where you are! It's like teleporting to another country without leaving your couch.</p>\n<p><strong>4. Dodge Restrictions:</strong> Some places block websites and apps. It's like being grounded by the internet police. Well, a VPN sets you free. You can unblock those restricted sites and use any app you want. The internet's your oyster, and a VPN is the key to open it.</p>\n<p><strong>5. Shop Safely:</strong> Shopping online is a breeze, but it can be risky. Hackers are just waiting to snatch your credit card details. With a VPN, your connection is shielded, and your online shopping becomes a fortress of security. Grandma can buy her knitting supplies without a worry in the world.</p>\n<p><strong>6. Peace of Mind:</strong> In this age of cyber threats and data breaches, having a VPN is like having your very own online guardian angel. It's like locking your doors at night – it keeps the bad stuff out and the good stuff in.</p>\n<p>So, there you have it! VPNs are like the digital seat belts of the internet. They're not just for tech-savvy folks. They keep you safe, ensure your privacy, and let you enjoy the internet the way it should be – free and secure. </p>",
+            "image": "https://will-ellington.github.io/tech-genie/media/posts/2/pexels-stefan-coders-5243611.jpg",
+            "author": {
+                "name": "Will Ellington"
+            },
+            "tags": [
+                   "VPN"
+            ],
+            "date_published": "2023-11-10T22:56:18+09:00",
+            "date_modified": "2023-11-10T22:56:18+09:00"
+        },
+        {
             "id": "https://will-ellington.github.io/tech-genie/real-world-cases-where-a-vpn-is-actually-useful/",
             "url": "https://will-ellington.github.io/tech-genie/real-world-cases-where-a-vpn-is-actually-useful/",
             "title": "Real world cases where a VPN is actually useful",
